@@ -1,5 +1,3 @@
-#pip install discord.py
-#PIP INSTALL PYTHON-DECOUPLE
 import discord
 from decouple import config
 from discord.ext import commands,tasks
